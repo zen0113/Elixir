@@ -102,9 +102,9 @@ GPT-4o mini를 활용한 맞춤형 식단 추천과
 
 |                                                 화면                                                 | 설명                                     |
 | :----------------------------------------------------------------------------------------------------: | :------------------------------------- |
-| <img src="YOUR_GIF_1.gif?raw=true" width="250"/> | 식단 캘린더 및 점수 기반 색상 표시 시스템 |
-| <img src="YOUR_GIF_2.gif?raw=true" width="250"/> | GPT-4o mini 기반 AI 챗봇 맞춤 피드백 |
-| <img src="YOUR_GIF_3.gif?raw=true" width="250"/> | 월간 챌린지 시스템 및 단계별 진행도 |
+| <img src="https://github.com/zen0113/Elixir/blob/main/Elixir_1.png?raw=true" width="250"/> | 식단 캘린더 및 점수 기반 색상 표시 시스템 |
+| <img src="https://github.com/zen0113/Elixir/blob/main/Elixir_2.png?raw=true" width="250"/> | GPT-4o mini 기반 AI 챗봇 맞춤 피드백 |
+| <img src="https://github.com/zen0113/Elixir/blob/main/Elixir_3.png?raw=true" width="250"/> | 월간 챌린지 시스템 및 단계별 진행도 |
 
 </div>
 
