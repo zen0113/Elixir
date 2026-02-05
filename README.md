@@ -35,7 +35,66 @@ GPT-4o mini를 활용한 맞춤형 식단 추천과
 
 </div>
 
+### Tech Stack
+
+
+**Frontend**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br>
+
+**Development Environment**
+
+* Android Studio
+* Android SDK 23+
+* Java 17
+
+**Backend & Database**
+
+* Spring Boot
+* Redis
+* Amazon RDS
+* MySQL
+* Swagger
+
+**Infrastructure & DevOps**
+
+* Amazon ECS
+* AWS Fargate
+* Docker
+* GitHub Actions
+* Amazon S3
+* AWS ALB
+
 <br><br><br>
+
+
+## 🏆 Achievement
+
+<br>
+
+* **KCI 등재 학술지 논문 게재** (2025)
+* 6개월 장기 프로젝트 성공적 완수
+
+<br><br><br>
+
+<br><br><br>
+
 
 ## 🎮 Demo
 
@@ -156,63 +215,7 @@ GPT-4o mini를 활용한 저속노화 식단 관리 특화 챗봇입니다.
 
 <br><br>
 
-### Tech Stack
 
-
-**Frontend**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<br>
-
-**Development Environment**
-
-* Android Studio
-* Android SDK 23+
-* Java 17
-
-**Backend & Database**
-
-* Spring Boot
-* Redis
-* Amazon RDS
-* MySQL
-* Swagger
-
-**Infrastructure & DevOps**
-
-* Amazon ECS
-* AWS Fargate
-* Docker
-* GitHub Actions
-* Amazon S3
-* AWS ALB
-
-<br><br><br>
-
-
-## 🏆 Achievement
-
-<br>
-
-* **KCI 등재 학술지 논문 게재** (2025)
-* 6개월 장기 프로젝트 성공적 완수
-
-<br><br><br>
 
 ## 📚 Lessons Learned
 
